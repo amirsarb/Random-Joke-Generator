@@ -2,7 +2,6 @@
 
 findJoke();
 
-
 function findJoke() {
     const req = new XMLHttpRequest();
 
